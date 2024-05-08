@@ -1,4 +1,3 @@
-/* CMPE102 - HW#1 template */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
